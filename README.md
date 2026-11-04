@@ -17,6 +17,8 @@ Neste repositório estão disponíveis os slides do minicurso e o Jupyter Notebo
 - [cuSZp](https://github.com/szcompressor/cuSZp)
 - [ZFP](https://github.com/LLNL/zfp)
 - [nvCOMP Bitcomp](https://docs.nvidia.com/cuda/nvcomp/installation.html)
+- [Repositório SDRBench](https://sdrbench.github.io)
+- [Repositório SDRBench - Hugging Face](https://huggingface.co/datasets/sdrbench)
 
 Os slides e o arquivo Jupyter Notebook do minicurso estão disponíveis nesse repositório, e abaixo estão alguns links úteis:
 
